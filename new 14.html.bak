@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<html>
+<head>
+<title> Test formatting </title>
+</head>
+<body>
+      Shipon Talukdar<br/>
+	  <b>Shipon Talukdar</b><br/>
+	  <u>Shipon Talukdar</u><br/>
+	  <i>Shipon Talukdar</i><br/>
+	  <strike>Shipon Talukdar</strike><br/>
+	  (a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></br>
+	  H<sub>2</sub>O
+</body>
+</html>	  

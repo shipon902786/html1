@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> page2 </title>
+</head>
+<body>
+<h1> List of Human Language </h1>
+<ol>
+<li> Bengli
+<li> English
+<li> Hindi
+<li> Urdu
+</ol>
+< a href="file:///C:/Users/TM%20Shipon/OneDrive/Desktop/html/pag2.html"> click here to visit page 2 </a>
+</body>
+</html>
